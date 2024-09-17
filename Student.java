@@ -1,3 +1,6 @@
+//Simple Student details program using OOPs
+
+
 public class Student {
     
     private String name;
