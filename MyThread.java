@@ -1,3 +1,4 @@
+//Creating a thread by extending the Thread class.
 
 public class MyThread extends Thread{
     @Override
